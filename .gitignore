@@ -1,0 +1,12 @@
+node_modules/
+.cache/
+generated/audio-mono.wav
+generated/research-*.html
+output/*
+!output/digital-girl-mv.mp4
+!output/digital-girl-short.mp4
+!output/thumbnail.png
+!output/checks/
+output/checks/*
+!output/checks/verification.json
+*.log

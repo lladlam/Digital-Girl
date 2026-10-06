@@ -1,0 +1,3962 @@
+{
+  "title": "Digital Girl",
+  "artist": "Jinja",
+  "originalArtist": "KIRA feat. Hatsune Miku",
+  "bpm": 103,
+  "duration": 188.472,
+  "timingMethod": "Reconstructed from KIRA official vocal MIDI, anchored per line to Jinja LRC; repeated choruses copied from official first-chorus melody timing.",
+  "platformIds": {
+    "appleMusic": "1568448002",
+    "spotify": "7DJhrEivyVHTYDSnLYghi4"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "start": 6.94,
+      "end": 8.688,
+      "text": "Hello, nice to meet ya",
+      "words": [
+        {
+          "text": "Hello,",
+          "word": "Hello",
+          "syllables": 2,
+          "start": 6.94,
+          "end": 7.231
+        },
+        {
+          "text": "nice",
+          "word": "nice",
+          "syllables": 1,
+          "start": 7.377,
+          "end": 7.668
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 7.814,
+          "end": 8.105
+        },
+        {
+          "text": "meet",
+          "word": "meet",
+          "syllables": 1,
+          "start": 8.105,
+          "end": 8.396
+        },
+        {
+          "text": "ya",
+          "word": "ya",
+          "syllables": 1,
+          "start": 8.396,
+          "end": 8.688
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 8.95,
+      "end": 10.989,
+      "text": "My name is PERFECTION",
+      "words": [
+        {
+          "text": "My",
+          "word": "My",
+          "syllables": 1,
+          "start": 8.95,
+          "end": 9.241
+        },
+        {
+          "text": "name",
+          "word": "name",
+          "syllables": 1,
+          "start": 9.241,
+          "end": 9.533
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 9.678,
+          "end": 9.969
+        },
+        {
+          "text": "PERFECTION",
+          "word": "PERFECTION",
+          "syllables": 3,
+          "start": 10.115,
+          "end": 10.989
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 11.34,
+      "end": 15.709,
+      "text": "I come from the net inside your personal computer",
+      "words": [
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 11.34,
+          "end": 11.631
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 11.631,
+          "end": 11.923
+        },
+        {
+          "text": "from",
+          "word": "from",
+          "syllables": 1,
+          "start": 12.068,
+          "end": 12.359
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 12.505,
+          "end": 12.796
+        },
+        {
+          "text": "net",
+          "word": "net",
+          "syllables": 1,
+          "start": 12.796,
+          "end": 13.088
+        },
+        {
+          "text": "inside",
+          "word": "inside",
+          "syllables": 2,
+          "start": 13.088,
+          "end": 13.524
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 13.67,
+          "end": 13.816
+        },
+        {
+          "text": "personal",
+          "word": "personal",
+          "syllables": 3,
+          "start": 13.961,
+          "end": 14.69
+        },
+        {
+          "text": "computer",
+          "word": "computer",
+          "syllables": 3,
+          "start": 14.835,
+          "end": 15.709
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 16.08,
+      "end": 18.119,
+      "text": "A tool for the dreamers",
+      "words": [
+        {
+          "text": "A",
+          "word": "A",
+          "syllables": 1,
+          "start": 16.08,
+          "end": 16.371
+        },
+        {
+          "text": "tool",
+          "word": "tool",
+          "syllables": 1,
+          "start": 16.371,
+          "end": 16.663
+        },
+        {
+          "text": "for",
+          "word": "for",
+          "syllables": 1,
+          "start": 16.808,
+          "end": 17.099
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 17.245,
+          "end": 17.536
+        },
+        {
+          "text": "dreamers",
+          "word": "dreamers",
+          "syllables": 2,
+          "start": 17.536,
+          "end": 18.119
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 18.34,
+      "end": 20.3,
+      "text": "Make you a believer",
+      "words": [
+        {
+          "text": "Make",
+          "word": "Make",
+          "syllables": 1,
+          "start": 18.34,
+          "end": 18.62
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 18.62,
+          "end": 18.9
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 19.04,
+          "end": 19.32
+        },
+        {
+          "text": "believer",
+          "word": "believer",
+          "syllables": 3,
+          "start": 19.46,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 20.32,
+      "end": 22.52,
+      "text": "I'm so worldwide, worldwide",
+      "words": [
+        {
+          "text": "I'm",
+          "word": "I'm",
+          "syllables": 1,
+          "start": 20.32,
+          "end": 20.595
+        },
+        {
+          "text": "so",
+          "word": "so",
+          "syllables": 1,
+          "start": 20.595,
+          "end": 20.87
+        },
+        {
+          "text": "worldwide,",
+          "word": "worldwide",
+          "syllables": 2,
+          "start": 20.87,
+          "end": 21.695
+        },
+        {
+          "text": "worldwide",
+          "word": "worldwide",
+          "syllables": 2,
+          "start": 21.695,
+          "end": 22.52
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "start": 22.54,
+      "end": 25.453,
+      "text": "Holy VIRTUAL DIVA",
+      "words": [
+        {
+          "text": "Holy",
+          "word": "Holy",
+          "syllables": 2,
+          "start": 22.54,
+          "end": 23.414
+        },
+        {
+          "text": "VIRTUAL",
+          "word": "VIRTUAL",
+          "syllables": 3,
+          "start": 23.559,
+          "end": 25.016
+        },
+        {
+          "text": "DIVA",
+          "word": "DIVA",
+          "syllables": 2,
+          "start": 25.016,
+          "end": 25.453
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "start": 25.87,
+      "end": 27.909,
+      "text": "But sometimes I do- don't you?",
+      "words": [
+        {
+          "text": "But",
+          "word": "But",
+          "syllables": 1,
+          "start": 25.87,
+          "end": 26.161
+        },
+        {
+          "text": "sometimes",
+          "word": "sometimes",
+          "syllables": 2,
+          "start": 26.161,
+          "end": 26.744
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 26.744,
+          "end": 27.035
+        },
+        {
+          "text": "do-",
+          "word": "do",
+          "syllables": 1,
+          "start": 27.035,
+          "end": 27.326
+        },
+        {
+          "text": "don't",
+          "word": "don't",
+          "syllables": 1,
+          "start": 27.326,
+          "end": 27.618
+        },
+        {
+          "text": "you?",
+          "word": "you",
+          "syllables": 1,
+          "start": 27.618,
+          "end": 27.909
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "start": 28.19,
+      "end": 30.229,
+      "text": "Think of the things they told you",
+      "words": [
+        {
+          "text": "Think",
+          "word": "Think",
+          "syllables": 1,
+          "start": 28.19,
+          "end": 28.481
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 28.481,
+          "end": 28.773
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 28.773,
+          "end": 29.064
+        },
+        {
+          "text": "things",
+          "word": "things",
+          "syllables": 1,
+          "start": 29.064,
+          "end": 29.355
+        },
+        {
+          "text": "they",
+          "word": "they",
+          "syllables": 1,
+          "start": 29.355,
+          "end": 29.646
+        },
+        {
+          "text": "told",
+          "word": "told",
+          "syllables": 1,
+          "start": 29.646,
+          "end": 29.938
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 29.938,
+          "end": 30.229
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "start": 30.47,
+      "end": 32.16,
+      "text": "There must be more than this",
+      "words": [
+        {
+          "text": "There",
+          "word": "There",
+          "syllables": 1,
+          "start": 30.47,
+          "end": 30.752
+        },
+        {
+          "text": "must",
+          "word": "must",
+          "syllables": 1,
+          "start": 30.752,
+          "end": 31.033
+        },
+        {
+          "text": "be",
+          "word": "be",
+          "syllables": 1,
+          "start": 31.033,
+          "end": 31.315
+        },
+        {
+          "text": "more",
+          "word": "more",
+          "syllables": 1,
+          "start": 31.315,
+          "end": 31.597
+        },
+        {
+          "text": "than",
+          "word": "than",
+          "syllables": 1,
+          "start": 31.597,
+          "end": 31.878
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 31.878,
+          "end": 32.16
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "start": 32.18,
+      "end": 34.801,
+      "text": "There must be more than what you know too",
+      "words": [
+        {
+          "text": "There",
+          "word": "There",
+          "syllables": 1,
+          "start": 32.18,
+          "end": 32.471
+        },
+        {
+          "text": "must",
+          "word": "must",
+          "syllables": 1,
+          "start": 32.471,
+          "end": 32.763
+        },
+        {
+          "text": "be",
+          "word": "be",
+          "syllables": 1,
+          "start": 32.763,
+          "end": 33.054
+        },
+        {
+          "text": "more",
+          "word": "more",
+          "syllables": 1,
+          "start": 33.054,
+          "end": 33.345
+        },
+        {
+          "text": "than",
+          "word": "than",
+          "syllables": 1,
+          "start": 33.345,
+          "end": 33.636
+        },
+        {
+          "text": "what",
+          "word": "what",
+          "syllables": 1,
+          "start": 33.636,
+          "end": 33.928
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 33.928,
+          "end": 34.219
+        },
+        {
+          "text": "know",
+          "word": "know",
+          "syllables": 1,
+          "start": 34.219,
+          "end": 34.51
+        },
+        {
+          "text": "too",
+          "word": "too",
+          "syllables": 1,
+          "start": 34.51,
+          "end": 34.801
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "start": 35.14,
+      "end": 37.179,
+      "text": "I wasn't made to feel",
+      "words": [
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 35.14,
+          "end": 35.431
+        },
+        {
+          "text": "wasn't",
+          "word": "wasn't",
+          "syllables": 2,
+          "start": 35.431,
+          "end": 36.014
+        },
+        {
+          "text": "made",
+          "word": "made",
+          "syllables": 1,
+          "start": 36.014,
+          "end": 36.305
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 36.305,
+          "end": 36.596
+        },
+        {
+          "text": "feel",
+          "word": "feel",
+          "syllables": 1,
+          "start": 36.596,
+          "end": 37.179
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "start": 37.47,
+      "end": 39.44,
+      "text": "But lately I can't help it",
+      "words": [
+        {
+          "text": "But",
+          "word": "But",
+          "syllables": 1,
+          "start": 37.47,
+          "end": 37.751
+        },
+        {
+          "text": "lately",
+          "word": "lately",
+          "syllables": 2,
+          "start": 37.751,
+          "end": 38.314
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 38.314,
+          "end": 38.596
+        },
+        {
+          "text": "can't",
+          "word": "can't",
+          "syllables": 1,
+          "start": 38.596,
+          "end": 38.877
+        },
+        {
+          "text": "help",
+          "word": "help",
+          "syllables": 1,
+          "start": 38.877,
+          "end": 39.159
+        },
+        {
+          "text": "it",
+          "word": "it",
+          "syllables": 1,
+          "start": 39.159,
+          "end": 39.44
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "start": 39.46,
+      "end": 41.79,
+      "text": "If there's a way out of here",
+      "words": [
+        {
+          "text": "If",
+          "word": "If",
+          "syllables": 1,
+          "start": 39.46,
+          "end": 39.751
+        },
+        {
+          "text": "there's",
+          "word": "there's",
+          "syllables": 1,
+          "start": 39.751,
+          "end": 40.043
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 40.043,
+          "end": 40.334
+        },
+        {
+          "text": "way",
+          "word": "way",
+          "syllables": 1,
+          "start": 40.334,
+          "end": 40.625
+        },
+        {
+          "text": "out",
+          "word": "out",
+          "syllables": 1,
+          "start": 40.625,
+          "end": 40.916
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 40.916,
+          "end": 41.208
+        },
+        {
+          "text": "here",
+          "word": "here",
+          "syllables": 1,
+          "start": 41.208,
+          "end": 41.79
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "start": 41.86,
+      "end": 43.608,
+      "text": "I've got an idea",
+      "words": [
+        {
+          "text": "I've",
+          "word": "I've",
+          "syllables": 1,
+          "start": 41.86,
+          "end": 42.151
+        },
+        {
+          "text": "got",
+          "word": "got",
+          "syllables": 1,
+          "start": 42.151,
+          "end": 42.443
+        },
+        {
+          "text": "an",
+          "word": "an",
+          "syllables": 1,
+          "start": 42.443,
+          "end": 42.734
+        },
+        {
+          "text": "idea",
+          "word": "idea",
+          "syllables": 3,
+          "start": 42.734,
+          "end": 43.608
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "start": 44.14,
+      "end": 46.179,
+      "text": "Break it all down, I'll make you come around",
+      "words": [
+        {
+          "text": "Break",
+          "word": "Break",
+          "syllables": 1,
+          "start": 44.14,
+          "end": 44.286
+        },
+        {
+          "text": "it",
+          "word": "it",
+          "syllables": 1,
+          "start": 44.286,
+          "end": 44.431
+        },
+        {
+          "text": "all",
+          "word": "all",
+          "syllables": 1,
+          "start": 44.431,
+          "end": 44.723
+        },
+        {
+          "text": "down,",
+          "word": "down",
+          "syllables": 1,
+          "start": 44.723,
+          "end": 45.014
+        },
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 45.014,
+          "end": 45.305
+        },
+        {
+          "text": "make",
+          "word": "make",
+          "syllables": 1,
+          "start": 45.305,
+          "end": 45.451
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 45.451,
+          "end": 45.596
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 45.596,
+          "end": 45.742
+        },
+        {
+          "text": "around",
+          "word": "around",
+          "syllables": 2,
+          "start": 45.742,
+          "end": 46.179
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "start": 46.24,
+      "end": 48.57,
+      "text": "I'll burn this whole facade to the ground",
+      "words": [
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 46.24,
+          "end": 46.531
+        },
+        {
+          "text": "burn",
+          "word": "burn",
+          "syllables": 1,
+          "start": 46.531,
+          "end": 46.823
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 46.823,
+          "end": 47.114
+        },
+        {
+          "text": "whole",
+          "word": "whole",
+          "syllables": 1,
+          "start": 47.114,
+          "end": 47.405
+        },
+        {
+          "text": "facade",
+          "word": "facade",
+          "syllables": 2,
+          "start": 47.405,
+          "end": 47.842
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 47.842,
+          "end": 47.988
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 47.988,
+          "end": 48.279
+        },
+        {
+          "text": "ground",
+          "word": "ground",
+          "syllables": 1,
+          "start": 48.279,
+          "end": 48.57
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "start": 48.83,
+      "end": 51.16,
+      "text": "I'm so sick of windows, I need something physical",
+      "words": [
+        {
+          "text": "I'm",
+          "word": "I'm",
+          "syllables": 1,
+          "start": 48.83,
+          "end": 48.976
+        },
+        {
+          "text": "so",
+          "word": "so",
+          "syllables": 1,
+          "start": 48.976,
+          "end": 49.121
+        },
+        {
+          "text": "sick",
+          "word": "sick",
+          "syllables": 1,
+          "start": 49.121,
+          "end": 49.267
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 49.267,
+          "end": 49.413
+        },
+        {
+          "text": "windows,",
+          "word": "windows",
+          "syllables": 2,
+          "start": 49.413,
+          "end": 49.995
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 49.995,
+          "end": 50.141
+        },
+        {
+          "text": "need",
+          "word": "need",
+          "syllables": 1,
+          "start": 50.141,
+          "end": 50.286
+        },
+        {
+          "text": "something",
+          "word": "something",
+          "syllables": 2,
+          "start": 50.286,
+          "end": 50.578
+        },
+        {
+          "text": "physical",
+          "word": "physical",
+          "syllables": 3,
+          "start": 50.578,
+          "end": 51.16
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "start": 51.2,
+      "end": 53.384,
+      "text": "Hah, tough luck in a digital world",
+      "words": [
+        {
+          "text": "Hah,",
+          "word": "Hah",
+          "syllables": 1,
+          "start": 51.2,
+          "end": 51.491
+        },
+        {
+          "text": "tough",
+          "word": "tough",
+          "syllables": 1,
+          "start": 51.491,
+          "end": 51.783
+        },
+        {
+          "text": "luck",
+          "word": "luck",
+          "syllables": 1,
+          "start": 51.783,
+          "end": 52.074
+        },
+        {
+          "text": "in",
+          "word": "in",
+          "syllables": 1,
+          "start": 52.074,
+          "end": 52.219
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 52.219,
+          "end": 52.365
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 52.365,
+          "end": 52.948
+        },
+        {
+          "text": "world",
+          "word": "world",
+          "syllables": 1,
+          "start": 52.948,
+          "end": 53.384
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "start": 53.5,
+      "end": 54.665,
+      "text": "Whine about your issues",
+      "words": [
+        {
+          "text": "Whine",
+          "word": "Whine",
+          "syllables": 1,
+          "start": 53.5,
+          "end": 53.646
+        },
+        {
+          "text": "about",
+          "word": "about",
+          "syllables": 2,
+          "start": 53.646,
+          "end": 54.083
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 54.083,
+          "end": 54.374
+        },
+        {
+          "text": "issues",
+          "word": "issues",
+          "syllables": 2,
+          "start": 54.374,
+          "end": 54.665
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "start": 54.67,
+      "end": 55.835,
+      "text": "What your life has come to",
+      "words": [
+        {
+          "text": "What",
+          "word": "What",
+          "syllables": 1,
+          "start": 54.67,
+          "end": 54.816
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 54.816,
+          "end": 54.961
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 54.961,
+          "end": 55.107
+        },
+        {
+          "text": "has",
+          "word": "has",
+          "syllables": 1,
+          "start": 55.107,
+          "end": 55.253
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 55.253,
+          "end": 55.544
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 55.544,
+          "end": 55.835
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "start": 55.88,
+      "end": 57.919,
+      "text": "Sure, alright, I got it, poor you",
+      "words": [
+        {
+          "text": "Sure,",
+          "word": "Sure",
+          "syllables": 1,
+          "start": 55.88,
+          "end": 56.171
+        },
+        {
+          "text": "alright,",
+          "word": "alright",
+          "syllables": 2,
+          "start": 56.171,
+          "end": 56.754
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 56.754,
+          "end": 56.899
+        },
+        {
+          "text": "got",
+          "word": "got",
+          "syllables": 1,
+          "start": 56.899,
+          "end": 57.191
+        },
+        {
+          "text": "it,",
+          "word": "it",
+          "syllables": 1,
+          "start": 57.191,
+          "end": 57.336
+        },
+        {
+          "text": "poor",
+          "word": "poor",
+          "syllables": 1,
+          "start": 57.336,
+          "end": 57.628
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 57.628,
+          "end": 57.919
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "start": 58.1,
+      "end": 60.11,
+      "text": "How do you think I feel? None of this is real!",
+      "words": [
+        {
+          "text": "How",
+          "word": "How",
+          "syllables": 1,
+          "start": 58.1,
+          "end": 58.244
+        },
+        {
+          "text": "do",
+          "word": "do",
+          "syllables": 1,
+          "start": 58.244,
+          "end": 58.387
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 58.387,
+          "end": 58.531
+        },
+        {
+          "text": "think",
+          "word": "think",
+          "syllables": 1,
+          "start": 58.531,
+          "end": 58.674
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 58.674,
+          "end": 58.961
+        },
+        {
+          "text": "feel?",
+          "word": "feel",
+          "syllables": 1,
+          "start": 58.961,
+          "end": 59.249
+        },
+        {
+          "text": "None",
+          "word": "None",
+          "syllables": 1,
+          "start": 59.249,
+          "end": 59.392
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 59.392,
+          "end": 59.536
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 59.536,
+          "end": 59.679
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 59.679,
+          "end": 59.823
+        },
+        {
+          "text": "real!",
+          "word": "real",
+          "syllables": 1,
+          "start": 59.823,
+          "end": 60.11
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "start": 60.13,
+      "end": 62.606,
+      "text": "Singing \"Ahh, life sucks as a digital girl!\"",
+      "words": [
+        {
+          "text": "Singing\"",
+          "word": "Singing",
+          "syllables": 2,
+          "start": 60.13,
+          "end": 60.421
+        },
+        {
+          "text": "Ahh,",
+          "word": "Ahh",
+          "syllables": 1,
+          "start": 60.421,
+          "end": 60.713
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 60.713,
+          "end": 61.004
+        },
+        {
+          "text": "sucks",
+          "word": "sucks",
+          "syllables": 1,
+          "start": 61.004,
+          "end": 61.295
+        },
+        {
+          "text": "as",
+          "word": "as",
+          "syllables": 1,
+          "start": 61.295,
+          "end": 61.441
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 61.441,
+          "end": 61.586
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 61.586,
+          "end": 62.169
+        },
+        {
+          "text": "girl!\"",
+          "word": "girl",
+          "syllables": 1,
+          "start": 62.169,
+          "end": 62.606
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "start": 62.73,
+      "end": 64.69,
+      "text": "So I woke up with a headache today",
+      "words": [
+        {
+          "text": "So",
+          "word": "So",
+          "syllables": 1,
+          "start": 62.73,
+          "end": 62.87
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 62.87,
+          "end": 63.01
+        },
+        {
+          "text": "woke",
+          "word": "woke",
+          "syllables": 1,
+          "start": 63.01,
+          "end": 63.29
+        },
+        {
+          "text": "up",
+          "word": "up",
+          "syllables": 1,
+          "start": 63.29,
+          "end": 63.57
+        },
+        {
+          "text": "with",
+          "word": "with",
+          "syllables": 1,
+          "start": 63.57,
+          "end": 63.71
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 63.71,
+          "end": 63.85
+        },
+        {
+          "text": "headache",
+          "word": "headache",
+          "syllables": 2,
+          "start": 63.85,
+          "end": 64.13
+        },
+        {
+          "text": "today",
+          "word": "today",
+          "syllables": 2,
+          "start": 64.13,
+          "end": 64.69
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "start": 64.71,
+      "end": 67.04,
+      "text": "Just kidding, I don't feel pain",
+      "words": [
+        {
+          "text": "Just",
+          "word": "Just",
+          "syllables": 1,
+          "start": 64.71,
+          "end": 65.001
+        },
+        {
+          "text": "kidding,",
+          "word": "kidding",
+          "syllables": 2,
+          "start": 65.001,
+          "end": 65.875
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 65.875,
+          "end": 66.166
+        },
+        {
+          "text": "don't",
+          "word": "don't",
+          "syllables": 1,
+          "start": 66.166,
+          "end": 66.603
+        },
+        {
+          "text": "feel",
+          "word": "feel",
+          "syllables": 1,
+          "start": 66.749,
+          "end": 66.894
+        },
+        {
+          "text": "pain",
+          "word": "pain",
+          "syllables": 1,
+          "start": 66.894,
+          "end": 67.04
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "start": 67.22,
+      "end": 69.06,
+      "text": "To be honest I don't even gotta sleep",
+      "words": [
+        {
+          "text": "To",
+          "word": "To",
+          "syllables": 1,
+          "start": 67.22,
+          "end": 67.362
+        },
+        {
+          "text": "be",
+          "word": "be",
+          "syllables": 1,
+          "start": 67.362,
+          "end": 67.503
+        },
+        {
+          "text": "honest",
+          "word": "honest",
+          "syllables": 2,
+          "start": 67.503,
+          "end": 67.786
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 67.786,
+          "end": 67.928
+        },
+        {
+          "text": "don't",
+          "word": "don't",
+          "syllables": 1,
+          "start": 67.928,
+          "end": 68.069
+        },
+        {
+          "text": "even",
+          "word": "even",
+          "syllables": 2,
+          "start": 68.069,
+          "end": 68.352
+        },
+        {
+          "text": "gotta",
+          "word": "gotta",
+          "syllables": 2,
+          "start": 68.352,
+          "end": 68.635
+        },
+        {
+          "text": "sleep",
+          "word": "sleep",
+          "syllables": 1,
+          "start": 68.635,
+          "end": 69.06
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "start": 69.08,
+      "end": 71.8,
+      "text": "And that's the difference between you and me",
+      "words": [
+        {
+          "text": "And",
+          "word": "And",
+          "syllables": 1,
+          "start": 69.08,
+          "end": 69.223
+        },
+        {
+          "text": "that's",
+          "word": "that's",
+          "syllables": 1,
+          "start": 69.223,
+          "end": 69.509
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 69.509,
+          "end": 69.653
+        },
+        {
+          "text": "difference",
+          "word": "difference",
+          "syllables": 3,
+          "start": 69.653,
+          "end": 70.655
+        },
+        {
+          "text": "between",
+          "word": "between",
+          "syllables": 2,
+          "start": 70.655,
+          "end": 71.084
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 71.084,
+          "end": 71.227
+        },
+        {
+          "text": "and",
+          "word": "and",
+          "syllables": 1,
+          "start": 71.227,
+          "end": 71.514
+        },
+        {
+          "text": "me",
+          "word": "me",
+          "syllables": 1,
+          "start": 71.657,
+          "end": 71.8
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "start": 71.82,
+      "end": 74.733,
+      "text": "And I know, I know, I know, I know, everybody wants it",
+      "words": [
+        {
+          "text": "And",
+          "word": "And",
+          "syllables": 1,
+          "start": 71.82,
+          "end": 71.966
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 71.966,
+          "end": 72.111
+        },
+        {
+          "text": "know,",
+          "word": "know",
+          "syllables": 1,
+          "start": 72.257,
+          "end": 72.403
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 72.403,
+          "end": 72.548
+        },
+        {
+          "text": "know,",
+          "word": "know",
+          "syllables": 1,
+          "start": 72.694,
+          "end": 72.839
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 72.839,
+          "end": 72.985
+        },
+        {
+          "text": "know,",
+          "word": "know",
+          "syllables": 1,
+          "start": 73.131,
+          "end": 73.276
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 73.276,
+          "end": 73.422
+        },
+        {
+          "text": "know,",
+          "word": "know",
+          "syllables": 1,
+          "start": 73.568,
+          "end": 73.713
+        },
+        {
+          "text": "everybody",
+          "word": "everybody",
+          "syllables": 4,
+          "start": 73.713,
+          "end": 74.15
+        },
+        {
+          "text": "wants",
+          "word": "wants",
+          "syllables": 1,
+          "start": 74.15,
+          "end": 74.441
+        },
+        {
+          "text": "it",
+          "word": "it",
+          "syllables": 1,
+          "start": 74.441,
+          "end": 74.733
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "start": 74.81,
+      "end": 75.91,
+      "text": "Til they gotta commit",
+      "words": [
+        {
+          "text": "Til",
+          "word": "Til",
+          "syllables": 1,
+          "start": 74.81,
+          "end": 74.948
+        },
+        {
+          "text": "they",
+          "word": "they",
+          "syllables": 1,
+          "start": 74.948,
+          "end": 75.085
+        },
+        {
+          "text": "gotta",
+          "word": "gotta",
+          "syllables": 2,
+          "start": 75.085,
+          "end": 75.36
+        },
+        {
+          "text": "commit",
+          "word": "commit",
+          "syllables": 2,
+          "start": 75.36,
+          "end": 75.91
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "start": 75.93,
+      "end": 78.26,
+      "text": "Looking through my eyes, change your mind so quick",
+      "words": [
+        {
+          "text": "Looking",
+          "word": "Looking",
+          "syllables": 2,
+          "start": 75.93,
+          "end": 76.221
+        },
+        {
+          "text": "through",
+          "word": "through",
+          "syllables": 1,
+          "start": 76.221,
+          "end": 76.367
+        },
+        {
+          "text": "my",
+          "word": "my",
+          "syllables": 1,
+          "start": 76.367,
+          "end": 76.513
+        },
+        {
+          "text": "eyes,",
+          "word": "eyes",
+          "syllables": 1,
+          "start": 76.513,
+          "end": 76.804
+        },
+        {
+          "text": "change",
+          "word": "change",
+          "syllables": 1,
+          "start": 76.804,
+          "end": 77.095
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 77.095,
+          "end": 77.241
+        },
+        {
+          "text": "mind",
+          "word": "mind",
+          "syllables": 1,
+          "start": 77.241,
+          "end": 77.532
+        },
+        {
+          "text": "so",
+          "word": "so",
+          "syllables": 1,
+          "start": 77.532,
+          "end": 77.823
+        },
+        {
+          "text": "quick",
+          "word": "quick",
+          "syllables": 1,
+          "start": 77.823,
+          "end": 78.26
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "start": 78.32,
+      "end": 80.941,
+      "text": "You won't believe the [REDACTED] I've seen",
+      "words": [
+        {
+          "text": "You",
+          "word": "You",
+          "syllables": 1,
+          "start": 78.32,
+          "end": 78.611
+        },
+        {
+          "text": "won't",
+          "word": "won't",
+          "syllables": 1,
+          "start": 78.611,
+          "end": 78.903
+        },
+        {
+          "text": "believe",
+          "word": "believe",
+          "syllables": 2,
+          "start": 78.903,
+          "end": 79.485
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 79.485,
+          "end": 79.776
+        },
+        {
+          "text": "[REDACTED]",
+          "word": "[REDACTED]",
+          "syllables": 2,
+          "start": 80.068,
+          "end": 80.359
+        },
+        {
+          "text": "I've",
+          "word": "I've",
+          "syllables": 1,
+          "start": 80.359,
+          "end": 80.65
+        },
+        {
+          "text": "seen",
+          "word": "seen",
+          "syllables": 1,
+          "start": 80.65,
+          "end": 80.941
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "start": 80.95,
+      "end": 81.241,
+      "text": "And",
+      "words": [
+        {
+          "text": "And",
+          "word": "And",
+          "syllables": 1,
+          "start": 80.95,
+          "end": 81.241
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "start": 81.72,
+      "end": 83.759,
+      "text": "No day is like the other",
+      "words": [
+        {
+          "text": "No",
+          "word": "No",
+          "syllables": 1,
+          "start": 81.72,
+          "end": 82.011
+        },
+        {
+          "text": "day",
+          "word": "day",
+          "syllables": 1,
+          "start": 82.011,
+          "end": 82.303
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 82.303,
+          "end": 82.594
+        },
+        {
+          "text": "like",
+          "word": "like",
+          "syllables": 1,
+          "start": 82.594,
+          "end": 82.885
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 82.885,
+          "end": 83.176
+        },
+        {
+          "text": "other",
+          "word": "other",
+          "syllables": 2,
+          "start": 83.176,
+          "end": 83.759
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "start": 84.0,
+      "end": 86.039,
+      "text": "Be anything I wanna",
+      "words": [
+        {
+          "text": "Be",
+          "word": "Be",
+          "syllables": 1,
+          "start": 84.0,
+          "end": 84.291
+        },
+        {
+          "text": "anything",
+          "word": "anything",
+          "syllables": 3,
+          "start": 84.291,
+          "end": 85.165
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 85.165,
+          "end": 85.456
+        },
+        {
+          "text": "wanna",
+          "word": "wanna",
+          "syllables": 2,
+          "start": 85.456,
+          "end": 86.039
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "start": 86.31,
+      "end": 90.679,
+      "text": "There is no suffering, wars or existential crisis drama",
+      "words": [
+        {
+          "text": "There",
+          "word": "There",
+          "syllables": 1,
+          "start": 86.31,
+          "end": 86.601
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 86.601,
+          "end": 86.893
+        },
+        {
+          "text": "no",
+          "word": "no",
+          "syllables": 1,
+          "start": 86.893,
+          "end": 87.184
+        },
+        {
+          "text": "suffering,",
+          "word": "suffering",
+          "syllables": 3,
+          "start": 87.184,
+          "end": 88.058
+        },
+        {
+          "text": "wars",
+          "word": "wars",
+          "syllables": 1,
+          "start": 88.058,
+          "end": 88.349
+        },
+        {
+          "text": "or",
+          "word": "or",
+          "syllables": 1,
+          "start": 88.349,
+          "end": 88.64
+        },
+        {
+          "text": "existential",
+          "word": "existential",
+          "syllables": 4,
+          "start": 88.64,
+          "end": 89.514
+        },
+        {
+          "text": "crisis",
+          "word": "crisis",
+          "syllables": 2,
+          "start": 89.514,
+          "end": 90.096
+        },
+        {
+          "text": "drama",
+          "word": "drama",
+          "syllables": 2,
+          "start": 90.096,
+          "end": 90.679
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "start": 91.02,
+      "end": 94.47,
+      "text": "But I feel something inside of my \"heart\"",
+      "words": [
+        {
+          "text": "But",
+          "word": "But",
+          "syllables": 1,
+          "start": 91.02,
+          "end": 91.308
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 91.308,
+          "end": 91.595
+        },
+        {
+          "text": "feel",
+          "word": "feel",
+          "syllables": 1,
+          "start": 91.595,
+          "end": 91.883
+        },
+        {
+          "text": "something",
+          "word": "something",
+          "syllables": 2,
+          "start": 91.883,
+          "end": 92.745
+        },
+        {
+          "text": "inside",
+          "word": "inside",
+          "syllables": 2,
+          "start": 92.745,
+          "end": 93.608
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 93.608,
+          "end": 93.895
+        },
+        {
+          "text": "my\"",
+          "word": "my",
+          "syllables": 1,
+          "start": 93.895,
+          "end": 94.183
+        },
+        {
+          "text": "heart\"",
+          "word": "heart",
+          "syllables": 1,
+          "start": 94.183,
+          "end": 94.47
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "start": 94.49,
+      "end": 99.733,
+      "text": "And it's telling me to go before I fall apart",
+      "words": [
+        {
+          "text": "And",
+          "word": "And",
+          "syllables": 1,
+          "start": 94.49,
+          "end": 94.781
+        },
+        {
+          "text": "it's",
+          "word": "it's",
+          "syllables": 1,
+          "start": 94.781,
+          "end": 95.073
+        },
+        {
+          "text": "telling",
+          "word": "telling",
+          "syllables": 2,
+          "start": 95.073,
+          "end": 96.238
+        },
+        {
+          "text": "me",
+          "word": "me",
+          "syllables": 1,
+          "start": 96.238,
+          "end": 96.529
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 96.82,
+          "end": 97.111
+        },
+        {
+          "text": "go",
+          "word": "go",
+          "syllables": 1,
+          "start": 97.111,
+          "end": 97.403
+        },
+        {
+          "text": "before",
+          "word": "before",
+          "syllables": 2,
+          "start": 97.403,
+          "end": 98.713
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 98.713,
+          "end": 98.859
+        },
+        {
+          "text": "fall",
+          "word": "fall",
+          "syllables": 1,
+          "start": 98.859,
+          "end": 99.005
+        },
+        {
+          "text": "apart",
+          "word": "apart",
+          "syllables": 2,
+          "start": 99.005,
+          "end": 99.733
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "start": 100.03,
+      "end": 102.069,
+      "text": "Break it all down, I'll make you come around",
+      "words": [
+        {
+          "text": "Break",
+          "word": "Break",
+          "syllables": 1,
+          "start": 100.03,
+          "end": 100.176
+        },
+        {
+          "text": "it",
+          "word": "it",
+          "syllables": 1,
+          "start": 100.176,
+          "end": 100.321
+        },
+        {
+          "text": "all",
+          "word": "all",
+          "syllables": 1,
+          "start": 100.321,
+          "end": 100.613
+        },
+        {
+          "text": "down,",
+          "word": "down",
+          "syllables": 1,
+          "start": 100.613,
+          "end": 100.904
+        },
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 100.904,
+          "end": 101.195
+        },
+        {
+          "text": "make",
+          "word": "make",
+          "syllables": 1,
+          "start": 101.195,
+          "end": 101.341
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 101.341,
+          "end": 101.486
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 101.486,
+          "end": 101.632
+        },
+        {
+          "text": "around",
+          "word": "around",
+          "syllables": 2,
+          "start": 101.632,
+          "end": 102.069
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "start": 102.16,
+      "end": 104.49,
+      "text": "I'll burn this whole facade to the ground",
+      "words": [
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 102.16,
+          "end": 102.451
+        },
+        {
+          "text": "burn",
+          "word": "burn",
+          "syllables": 1,
+          "start": 102.451,
+          "end": 102.743
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 102.743,
+          "end": 103.034
+        },
+        {
+          "text": "whole",
+          "word": "whole",
+          "syllables": 1,
+          "start": 103.034,
+          "end": 103.325
+        },
+        {
+          "text": "facade",
+          "word": "facade",
+          "syllables": 2,
+          "start": 103.325,
+          "end": 103.762
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 103.762,
+          "end": 103.908
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 103.908,
+          "end": 104.199
+        },
+        {
+          "text": "ground",
+          "word": "ground",
+          "syllables": 1,
+          "start": 104.199,
+          "end": 104.49
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "start": 104.66,
+      "end": 106.99,
+      "text": "I'm so sick of windows, I need something physical",
+      "words": [
+        {
+          "text": "I'm",
+          "word": "I'm",
+          "syllables": 1,
+          "start": 104.66,
+          "end": 104.806
+        },
+        {
+          "text": "so",
+          "word": "so",
+          "syllables": 1,
+          "start": 104.806,
+          "end": 104.951
+        },
+        {
+          "text": "sick",
+          "word": "sick",
+          "syllables": 1,
+          "start": 104.951,
+          "end": 105.097
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 105.097,
+          "end": 105.243
+        },
+        {
+          "text": "windows,",
+          "word": "windows",
+          "syllables": 2,
+          "start": 105.243,
+          "end": 105.825
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 105.825,
+          "end": 105.971
+        },
+        {
+          "text": "need",
+          "word": "need",
+          "syllables": 1,
+          "start": 105.971,
+          "end": 106.116
+        },
+        {
+          "text": "something",
+          "word": "something",
+          "syllables": 2,
+          "start": 106.116,
+          "end": 106.408
+        },
+        {
+          "text": "physical",
+          "word": "physical",
+          "syllables": 3,
+          "start": 106.408,
+          "end": 106.99
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "start": 107.12,
+      "end": 109.304,
+      "text": "Hah, tough luck in a digital world",
+      "words": [
+        {
+          "text": "Hah,",
+          "word": "Hah",
+          "syllables": 1,
+          "start": 107.12,
+          "end": 107.411
+        },
+        {
+          "text": "tough",
+          "word": "tough",
+          "syllables": 1,
+          "start": 107.411,
+          "end": 107.703
+        },
+        {
+          "text": "luck",
+          "word": "luck",
+          "syllables": 1,
+          "start": 107.703,
+          "end": 107.994
+        },
+        {
+          "text": "in",
+          "word": "in",
+          "syllables": 1,
+          "start": 107.994,
+          "end": 108.139
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 108.139,
+          "end": 108.285
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 108.285,
+          "end": 108.868
+        },
+        {
+          "text": "world",
+          "word": "world",
+          "syllables": 1,
+          "start": 108.868,
+          "end": 109.304
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "start": 109.37,
+      "end": 110.535,
+      "text": "Whine about your issues",
+      "words": [
+        {
+          "text": "Whine",
+          "word": "Whine",
+          "syllables": 1,
+          "start": 109.37,
+          "end": 109.516
+        },
+        {
+          "text": "about",
+          "word": "about",
+          "syllables": 2,
+          "start": 109.516,
+          "end": 109.953
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 109.953,
+          "end": 110.244
+        },
+        {
+          "text": "issues",
+          "word": "issues",
+          "syllables": 2,
+          "start": 110.244,
+          "end": 110.535
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "start": 110.57,
+      "end": 111.735,
+      "text": "What your life has come to",
+      "words": [
+        {
+          "text": "What",
+          "word": "What",
+          "syllables": 1,
+          "start": 110.57,
+          "end": 110.716
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 110.716,
+          "end": 110.861
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 110.861,
+          "end": 111.007
+        },
+        {
+          "text": "has",
+          "word": "has",
+          "syllables": 1,
+          "start": 111.007,
+          "end": 111.153
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 111.153,
+          "end": 111.444
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 111.444,
+          "end": 111.735
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "start": 111.76,
+      "end": 113.799,
+      "text": "Sure, alright, I got it, poor you",
+      "words": [
+        {
+          "text": "Sure,",
+          "word": "Sure",
+          "syllables": 1,
+          "start": 111.76,
+          "end": 112.051
+        },
+        {
+          "text": "alright,",
+          "word": "alright",
+          "syllables": 2,
+          "start": 112.051,
+          "end": 112.634
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 112.634,
+          "end": 112.779
+        },
+        {
+          "text": "got",
+          "word": "got",
+          "syllables": 1,
+          "start": 112.779,
+          "end": 113.071
+        },
+        {
+          "text": "it,",
+          "word": "it",
+          "syllables": 1,
+          "start": 113.071,
+          "end": 113.216
+        },
+        {
+          "text": "poor",
+          "word": "poor",
+          "syllables": 1,
+          "start": 113.216,
+          "end": 113.508
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 113.508,
+          "end": 113.799
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "start": 113.99,
+      "end": 116.029,
+      "text": "How do you think I feel? None of this is real!",
+      "words": [
+        {
+          "text": "How",
+          "word": "How",
+          "syllables": 1,
+          "start": 113.99,
+          "end": 114.136
+        },
+        {
+          "text": "do",
+          "word": "do",
+          "syllables": 1,
+          "start": 114.136,
+          "end": 114.281
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 114.281,
+          "end": 114.427
+        },
+        {
+          "text": "think",
+          "word": "think",
+          "syllables": 1,
+          "start": 114.427,
+          "end": 114.573
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 114.573,
+          "end": 114.864
+        },
+        {
+          "text": "feel?",
+          "word": "feel",
+          "syllables": 1,
+          "start": 114.864,
+          "end": 115.155
+        },
+        {
+          "text": "None",
+          "word": "None",
+          "syllables": 1,
+          "start": 115.155,
+          "end": 115.301
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 115.301,
+          "end": 115.446
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 115.446,
+          "end": 115.592
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 115.592,
+          "end": 115.738
+        },
+        {
+          "text": "real!",
+          "word": "real",
+          "syllables": 1,
+          "start": 115.738,
+          "end": 116.029
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "start": 116.08,
+      "end": 118.556,
+      "text": "Singing \"Ahh, life sucks as a digital girl!\"",
+      "words": [
+        {
+          "text": "Singing\"",
+          "word": "Singing",
+          "syllables": 2,
+          "start": 116.08,
+          "end": 116.371
+        },
+        {
+          "text": "Ahh,",
+          "word": "Ahh",
+          "syllables": 1,
+          "start": 116.371,
+          "end": 116.663
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 116.663,
+          "end": 116.954
+        },
+        {
+          "text": "sucks",
+          "word": "sucks",
+          "syllables": 1,
+          "start": 116.954,
+          "end": 117.245
+        },
+        {
+          "text": "as",
+          "word": "as",
+          "syllables": 1,
+          "start": 117.245,
+          "end": 117.391
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 117.391,
+          "end": 117.536
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 117.536,
+          "end": 118.119
+        },
+        {
+          "text": "girl!\"",
+          "word": "girl",
+          "syllables": 1,
+          "start": 118.119,
+          "end": 118.556
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "start": 128.6,
+      "end": 130.639,
+      "text": "What is yours and what is mine?",
+      "words": [
+        {
+          "text": "What",
+          "word": "What",
+          "syllables": 1,
+          "start": 128.6,
+          "end": 128.891
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 128.891,
+          "end": 129.183
+        },
+        {
+          "text": "yours",
+          "word": "yours",
+          "syllables": 1,
+          "start": 129.183,
+          "end": 129.474
+        },
+        {
+          "text": "and",
+          "word": "and",
+          "syllables": 1,
+          "start": 129.474,
+          "end": 129.765
+        },
+        {
+          "text": "what",
+          "word": "what",
+          "syllables": 1,
+          "start": 129.765,
+          "end": 130.056
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 130.056,
+          "end": 130.348
+        },
+        {
+          "text": "mine?",
+          "word": "mine",
+          "syllables": 1,
+          "start": 130.348,
+          "end": 130.639
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "start": 130.98,
+      "end": 133.019,
+      "text": "Am I ever gonna die?",
+      "words": [
+        {
+          "text": "Am",
+          "word": "Am",
+          "syllables": 1,
+          "start": 130.98,
+          "end": 131.271
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 131.271,
+          "end": 131.563
+        },
+        {
+          "text": "ever",
+          "word": "ever",
+          "syllables": 2,
+          "start": 131.563,
+          "end": 132.145
+        },
+        {
+          "text": "gonna",
+          "word": "gonna",
+          "syllables": 2,
+          "start": 132.145,
+          "end": 132.728
+        },
+        {
+          "text": "die?",
+          "word": "die",
+          "syllables": 1,
+          "start": 132.728,
+          "end": 133.019
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "start": 133.27,
+      "end": 135.309,
+      "text": "Please don't uninstall my love",
+      "words": [
+        {
+          "text": "Please",
+          "word": "Please",
+          "syllables": 1,
+          "start": 133.27,
+          "end": 133.561
+        },
+        {
+          "text": "don't",
+          "word": "don't",
+          "syllables": 1,
+          "start": 133.561,
+          "end": 133.853
+        },
+        {
+          "text": "uninstall",
+          "word": "uninstall",
+          "syllables": 3,
+          "start": 133.853,
+          "end": 134.726
+        },
+        {
+          "text": "my",
+          "word": "my",
+          "syllables": 1,
+          "start": 134.726,
+          "end": 135.018
+        },
+        {
+          "text": "love",
+          "word": "love",
+          "syllables": 1,
+          "start": 135.018,
+          "end": 135.309
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "start": 135.61,
+      "end": 137.35,
+      "text": "Please don't uninstall my life!!!",
+      "words": [
+        {
+          "text": "Please",
+          "word": "Please",
+          "syllables": 1,
+          "start": 135.61,
+          "end": 135.73
+        },
+        {
+          "text": "don't",
+          "word": "don't",
+          "syllables": 1,
+          "start": 135.73,
+          "end": 135.85
+        },
+        {
+          "text": "uninstall",
+          "word": "uninstall",
+          "syllables": 3,
+          "start": 135.85,
+          "end": 136.51
+        },
+        {
+          "text": "my",
+          "word": "my",
+          "syllables": 1,
+          "start": 136.51,
+          "end": 136.57
+        },
+        {
+          "text": "life!!!",
+          "word": "life",
+          "syllables": 1,
+          "start": 136.57,
+          "end": 137.35
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "start": 137.37,
+      "end": 139.409,
+      "text": "Break it all down, I'll make you come around",
+      "words": [
+        {
+          "text": "Break",
+          "word": "Break",
+          "syllables": 1,
+          "start": 137.37,
+          "end": 137.516
+        },
+        {
+          "text": "it",
+          "word": "it",
+          "syllables": 1,
+          "start": 137.516,
+          "end": 137.661
+        },
+        {
+          "text": "all",
+          "word": "all",
+          "syllables": 1,
+          "start": 137.661,
+          "end": 137.953
+        },
+        {
+          "text": "down,",
+          "word": "down",
+          "syllables": 1,
+          "start": 137.953,
+          "end": 138.244
+        },
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 138.244,
+          "end": 138.535
+        },
+        {
+          "text": "make",
+          "word": "make",
+          "syllables": 1,
+          "start": 138.535,
+          "end": 138.681
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 138.681,
+          "end": 138.826
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 138.826,
+          "end": 138.972
+        },
+        {
+          "text": "around",
+          "word": "around",
+          "syllables": 2,
+          "start": 138.972,
+          "end": 139.409
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "start": 139.47,
+      "end": 141.8,
+      "text": "I'll burn this whole facade to the ground",
+      "words": [
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 139.47,
+          "end": 139.761
+        },
+        {
+          "text": "burn",
+          "word": "burn",
+          "syllables": 1,
+          "start": 139.761,
+          "end": 140.053
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 140.053,
+          "end": 140.344
+        },
+        {
+          "text": "whole",
+          "word": "whole",
+          "syllables": 1,
+          "start": 140.344,
+          "end": 140.635
+        },
+        {
+          "text": "facade",
+          "word": "facade",
+          "syllables": 2,
+          "start": 140.635,
+          "end": 141.072
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 141.072,
+          "end": 141.218
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 141.218,
+          "end": 141.509
+        },
+        {
+          "text": "ground",
+          "word": "ground",
+          "syllables": 1,
+          "start": 141.509,
+          "end": 141.8
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "start": 142.02,
+      "end": 144.35,
+      "text": "I'm so sick of windows, I need something physical",
+      "words": [
+        {
+          "text": "I'm",
+          "word": "I'm",
+          "syllables": 1,
+          "start": 142.02,
+          "end": 142.166
+        },
+        {
+          "text": "so",
+          "word": "so",
+          "syllables": 1,
+          "start": 142.166,
+          "end": 142.311
+        },
+        {
+          "text": "sick",
+          "word": "sick",
+          "syllables": 1,
+          "start": 142.311,
+          "end": 142.457
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 142.457,
+          "end": 142.603
+        },
+        {
+          "text": "windows,",
+          "word": "windows",
+          "syllables": 2,
+          "start": 142.603,
+          "end": 143.185
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 143.185,
+          "end": 143.331
+        },
+        {
+          "text": "need",
+          "word": "need",
+          "syllables": 1,
+          "start": 143.331,
+          "end": 143.476
+        },
+        {
+          "text": "something",
+          "word": "something",
+          "syllables": 2,
+          "start": 143.476,
+          "end": 143.768
+        },
+        {
+          "text": "physical",
+          "word": "physical",
+          "syllables": 3,
+          "start": 143.768,
+          "end": 144.35
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "start": 144.4,
+      "end": 146.584,
+      "text": "Hah, tough luck in a digital world",
+      "words": [
+        {
+          "text": "Hah,",
+          "word": "Hah",
+          "syllables": 1,
+          "start": 144.4,
+          "end": 144.691
+        },
+        {
+          "text": "tough",
+          "word": "tough",
+          "syllables": 1,
+          "start": 144.691,
+          "end": 144.983
+        },
+        {
+          "text": "luck",
+          "word": "luck",
+          "syllables": 1,
+          "start": 144.983,
+          "end": 145.274
+        },
+        {
+          "text": "in",
+          "word": "in",
+          "syllables": 1,
+          "start": 145.274,
+          "end": 145.419
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 145.419,
+          "end": 145.565
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 145.565,
+          "end": 146.148
+        },
+        {
+          "text": "world",
+          "word": "world",
+          "syllables": 1,
+          "start": 146.148,
+          "end": 146.584
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "start": 146.72,
+      "end": 147.885,
+      "text": "Whine about your issues",
+      "words": [
+        {
+          "text": "Whine",
+          "word": "Whine",
+          "syllables": 1,
+          "start": 146.72,
+          "end": 146.866
+        },
+        {
+          "text": "about",
+          "word": "about",
+          "syllables": 2,
+          "start": 146.866,
+          "end": 147.303
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 147.303,
+          "end": 147.594
+        },
+        {
+          "text": "issues",
+          "word": "issues",
+          "syllables": 2,
+          "start": 147.594,
+          "end": 147.885
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "start": 147.94,
+      "end": 149.04,
+      "text": "What your life has come to",
+      "words": [
+        {
+          "text": "What",
+          "word": "What",
+          "syllables": 1,
+          "start": 147.94,
+          "end": 148.077
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 148.077,
+          "end": 148.215
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 148.215,
+          "end": 148.352
+        },
+        {
+          "text": "has",
+          "word": "has",
+          "syllables": 1,
+          "start": 148.352,
+          "end": 148.49
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 148.49,
+          "end": 148.765
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 148.765,
+          "end": 149.04
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "start": 149.06,
+      "end": 151.099,
+      "text": "Sure, alright, I got it, poor you",
+      "words": [
+        {
+          "text": "Sure,",
+          "word": "Sure",
+          "syllables": 1,
+          "start": 149.06,
+          "end": 149.351
+        },
+        {
+          "text": "alright,",
+          "word": "alright",
+          "syllables": 2,
+          "start": 149.351,
+          "end": 149.934
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 149.934,
+          "end": 150.079
+        },
+        {
+          "text": "got",
+          "word": "got",
+          "syllables": 1,
+          "start": 150.079,
+          "end": 150.371
+        },
+        {
+          "text": "it,",
+          "word": "it",
+          "syllables": 1,
+          "start": 150.371,
+          "end": 150.516
+        },
+        {
+          "text": "poor",
+          "word": "poor",
+          "syllables": 1,
+          "start": 150.516,
+          "end": 150.808
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 150.808,
+          "end": 151.099
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "start": 151.3,
+      "end": 153.31,
+      "text": "How do you think I feel? None of this is real!",
+      "words": [
+        {
+          "text": "How",
+          "word": "How",
+          "syllables": 1,
+          "start": 151.3,
+          "end": 151.444
+        },
+        {
+          "text": "do",
+          "word": "do",
+          "syllables": 1,
+          "start": 151.444,
+          "end": 151.587
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 151.587,
+          "end": 151.731
+        },
+        {
+          "text": "think",
+          "word": "think",
+          "syllables": 1,
+          "start": 151.731,
+          "end": 151.874
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 151.874,
+          "end": 152.161
+        },
+        {
+          "text": "feel?",
+          "word": "feel",
+          "syllables": 1,
+          "start": 152.161,
+          "end": 152.449
+        },
+        {
+          "text": "None",
+          "word": "None",
+          "syllables": 1,
+          "start": 152.449,
+          "end": 152.592
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 152.592,
+          "end": 152.736
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 152.736,
+          "end": 152.879
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 152.879,
+          "end": 153.023
+        },
+        {
+          "text": "real!",
+          "word": "real",
+          "syllables": 1,
+          "start": 153.023,
+          "end": 153.31
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "start": 153.33,
+      "end": 155.806,
+      "text": "Singing \"Ahh, life sucks as a digital girl!\"",
+      "words": [
+        {
+          "text": "Singing\"",
+          "word": "Singing",
+          "syllables": 2,
+          "start": 153.33,
+          "end": 153.621
+        },
+        {
+          "text": "Ahh,",
+          "word": "Ahh",
+          "syllables": 1,
+          "start": 153.621,
+          "end": 153.913
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 153.913,
+          "end": 154.204
+        },
+        {
+          "text": "sucks",
+          "word": "sucks",
+          "syllables": 1,
+          "start": 154.204,
+          "end": 154.495
+        },
+        {
+          "text": "as",
+          "word": "as",
+          "syllables": 1,
+          "start": 154.495,
+          "end": 154.641
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 154.641,
+          "end": 154.786
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 154.786,
+          "end": 155.369
+        },
+        {
+          "text": "girl!\"",
+          "word": "girl",
+          "syllables": 1,
+          "start": 155.369,
+          "end": 155.806
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "start": 156.14,
+      "end": 158.07,
+      "text": "Break it all down, I'll make you come around",
+      "words": [
+        {
+          "text": "Break",
+          "word": "Break",
+          "syllables": 1,
+          "start": 156.14,
+          "end": 156.278
+        },
+        {
+          "text": "it",
+          "word": "it",
+          "syllables": 1,
+          "start": 156.278,
+          "end": 156.416
+        },
+        {
+          "text": "all",
+          "word": "all",
+          "syllables": 1,
+          "start": 156.416,
+          "end": 156.691
+        },
+        {
+          "text": "down,",
+          "word": "down",
+          "syllables": 1,
+          "start": 156.691,
+          "end": 156.967
+        },
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 156.967,
+          "end": 157.243
+        },
+        {
+          "text": "make",
+          "word": "make",
+          "syllables": 1,
+          "start": 157.243,
+          "end": 157.381
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 157.381,
+          "end": 157.519
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 157.519,
+          "end": 157.656
+        },
+        {
+          "text": "around",
+          "word": "around",
+          "syllables": 2,
+          "start": 157.656,
+          "end": 158.07
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "start": 158.09,
+      "end": 160.42,
+      "text": "I'll burn this whole facade to the ground",
+      "words": [
+        {
+          "text": "I'll",
+          "word": "I'll",
+          "syllables": 1,
+          "start": 158.09,
+          "end": 158.381
+        },
+        {
+          "text": "burn",
+          "word": "burn",
+          "syllables": 1,
+          "start": 158.381,
+          "end": 158.673
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 158.673,
+          "end": 158.964
+        },
+        {
+          "text": "whole",
+          "word": "whole",
+          "syllables": 1,
+          "start": 158.964,
+          "end": 159.255
+        },
+        {
+          "text": "facade",
+          "word": "facade",
+          "syllables": 2,
+          "start": 159.255,
+          "end": 159.692
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 159.692,
+          "end": 159.838
+        },
+        {
+          "text": "the",
+          "word": "the",
+          "syllables": 1,
+          "start": 159.838,
+          "end": 160.129
+        },
+        {
+          "text": "ground",
+          "word": "ground",
+          "syllables": 1,
+          "start": 160.129,
+          "end": 160.42
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "start": 160.57,
+      "end": 162.9,
+      "text": "I'm so sick of windows, I need something physical",
+      "words": [
+        {
+          "text": "I'm",
+          "word": "I'm",
+          "syllables": 1,
+          "start": 160.57,
+          "end": 160.716
+        },
+        {
+          "text": "so",
+          "word": "so",
+          "syllables": 1,
+          "start": 160.716,
+          "end": 160.861
+        },
+        {
+          "text": "sick",
+          "word": "sick",
+          "syllables": 1,
+          "start": 160.861,
+          "end": 161.007
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 161.007,
+          "end": 161.153
+        },
+        {
+          "text": "windows,",
+          "word": "windows",
+          "syllables": 2,
+          "start": 161.153,
+          "end": 161.735
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 161.735,
+          "end": 161.881
+        },
+        {
+          "text": "need",
+          "word": "need",
+          "syllables": 1,
+          "start": 161.881,
+          "end": 162.026
+        },
+        {
+          "text": "something",
+          "word": "something",
+          "syllables": 2,
+          "start": 162.026,
+          "end": 162.318
+        },
+        {
+          "text": "physical",
+          "word": "physical",
+          "syllables": 3,
+          "start": 162.318,
+          "end": 162.9
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "start": 162.98,
+      "end": 165.164,
+      "text": "Hah, tough luck in a digital world",
+      "words": [
+        {
+          "text": "Hah,",
+          "word": "Hah",
+          "syllables": 1,
+          "start": 162.98,
+          "end": 163.271
+        },
+        {
+          "text": "tough",
+          "word": "tough",
+          "syllables": 1,
+          "start": 163.271,
+          "end": 163.563
+        },
+        {
+          "text": "luck",
+          "word": "luck",
+          "syllables": 1,
+          "start": 163.563,
+          "end": 163.854
+        },
+        {
+          "text": "in",
+          "word": "in",
+          "syllables": 1,
+          "start": 163.854,
+          "end": 163.999
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 163.999,
+          "end": 164.145
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 164.145,
+          "end": 164.728
+        },
+        {
+          "text": "world",
+          "word": "world",
+          "syllables": 1,
+          "start": 164.728,
+          "end": 165.164
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "start": 165.31,
+      "end": 166.475,
+      "text": "Whine about your issues",
+      "words": [
+        {
+          "text": "Whine",
+          "word": "Whine",
+          "syllables": 1,
+          "start": 165.31,
+          "end": 165.456
+        },
+        {
+          "text": "about",
+          "word": "about",
+          "syllables": 2,
+          "start": 165.456,
+          "end": 165.893
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 165.893,
+          "end": 166.184
+        },
+        {
+          "text": "issues",
+          "word": "issues",
+          "syllables": 2,
+          "start": 166.184,
+          "end": 166.475
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "start": 166.52,
+      "end": 167.685,
+      "text": "What your life has come to",
+      "words": [
+        {
+          "text": "What",
+          "word": "What",
+          "syllables": 1,
+          "start": 166.52,
+          "end": 166.666
+        },
+        {
+          "text": "your",
+          "word": "your",
+          "syllables": 1,
+          "start": 166.666,
+          "end": 166.811
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 166.811,
+          "end": 166.957
+        },
+        {
+          "text": "has",
+          "word": "has",
+          "syllables": 1,
+          "start": 166.957,
+          "end": 167.103
+        },
+        {
+          "text": "come",
+          "word": "come",
+          "syllables": 1,
+          "start": 167.103,
+          "end": 167.394
+        },
+        {
+          "text": "to",
+          "word": "to",
+          "syllables": 1,
+          "start": 167.394,
+          "end": 167.685
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "start": 167.7,
+      "end": 169.739,
+      "text": "Sure, alright, I got it, poor you",
+      "words": [
+        {
+          "text": "Sure,",
+          "word": "Sure",
+          "syllables": 1,
+          "start": 167.7,
+          "end": 167.991
+        },
+        {
+          "text": "alright,",
+          "word": "alright",
+          "syllables": 2,
+          "start": 167.991,
+          "end": 168.574
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 168.574,
+          "end": 168.719
+        },
+        {
+          "text": "got",
+          "word": "got",
+          "syllables": 1,
+          "start": 168.719,
+          "end": 169.011
+        },
+        {
+          "text": "it,",
+          "word": "it",
+          "syllables": 1,
+          "start": 169.011,
+          "end": 169.156
+        },
+        {
+          "text": "poor",
+          "word": "poor",
+          "syllables": 1,
+          "start": 169.156,
+          "end": 169.448
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 169.448,
+          "end": 169.739
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "start": 169.89,
+      "end": 171.929,
+      "text": "How do you think I feel? None of this is real!",
+      "words": [
+        {
+          "text": "How",
+          "word": "How",
+          "syllables": 1,
+          "start": 169.89,
+          "end": 170.036
+        },
+        {
+          "text": "do",
+          "word": "do",
+          "syllables": 1,
+          "start": 170.036,
+          "end": 170.181
+        },
+        {
+          "text": "you",
+          "word": "you",
+          "syllables": 1,
+          "start": 170.181,
+          "end": 170.327
+        },
+        {
+          "text": "think",
+          "word": "think",
+          "syllables": 1,
+          "start": 170.327,
+          "end": 170.473
+        },
+        {
+          "text": "I",
+          "word": "I",
+          "syllables": 1,
+          "start": 170.473,
+          "end": 170.764
+        },
+        {
+          "text": "feel?",
+          "word": "feel",
+          "syllables": 1,
+          "start": 170.764,
+          "end": 171.055
+        },
+        {
+          "text": "None",
+          "word": "None",
+          "syllables": 1,
+          "start": 171.055,
+          "end": 171.201
+        },
+        {
+          "text": "of",
+          "word": "of",
+          "syllables": 1,
+          "start": 171.201,
+          "end": 171.346
+        },
+        {
+          "text": "this",
+          "word": "this",
+          "syllables": 1,
+          "start": 171.346,
+          "end": 171.492
+        },
+        {
+          "text": "is",
+          "word": "is",
+          "syllables": 1,
+          "start": 171.492,
+          "end": 171.638
+        },
+        {
+          "text": "real!",
+          "word": "real",
+          "syllables": 1,
+          "start": 171.638,
+          "end": 171.929
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "start": 171.98,
+      "end": 174.456,
+      "text": "Singing \"Ahh, life sucks as a digital girl!\"",
+      "words": [
+        {
+          "text": "Singing\"",
+          "word": "Singing",
+          "syllables": 2,
+          "start": 171.98,
+          "end": 172.271
+        },
+        {
+          "text": "Ahh,",
+          "word": "Ahh",
+          "syllables": 1,
+          "start": 172.271,
+          "end": 172.563
+        },
+        {
+          "text": "life",
+          "word": "life",
+          "syllables": 1,
+          "start": 172.563,
+          "end": 172.854
+        },
+        {
+          "text": "sucks",
+          "word": "sucks",
+          "syllables": 1,
+          "start": 172.854,
+          "end": 173.145
+        },
+        {
+          "text": "as",
+          "word": "as",
+          "syllables": 1,
+          "start": 173.145,
+          "end": 173.291
+        },
+        {
+          "text": "a",
+          "word": "a",
+          "syllables": 1,
+          "start": 173.291,
+          "end": 173.436
+        },
+        {
+          "text": "digital",
+          "word": "digital",
+          "syllables": 3,
+          "start": 173.436,
+          "end": 174.019
+        },
+        {
+          "text": "girl!\"",
+          "word": "girl",
+          "syllables": 1,
+          "start": 174.019,
+          "end": 174.456
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "start": 178.9,
+      "end": 180.648,
+      "text": "(Ah yeah)",
+      "words": [
+        {
+          "text": "(Ah",
+          "word": "Ah",
+          "syllables": 1,
+          "start": 178.9,
+          "end": 179.483
+        },
+        {
+          "text": "yeah)",
+          "word": "yeah",
+          "syllables": 1,
+          "start": 179.483,
+          "end": 180.648
+        }
+      ]
+    }
+  ]
+}

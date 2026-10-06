@@ -1,0 +1,36 @@
+{
+  "name": "digital-girl-mv",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --browser-executable=/usr/bin/chromium --port=3000",
+    "typecheck": "tsc --noEmit",
+    "analyze": "/workspace/.venv-digital-girl/bin/python scripts/analyze.py",
+    "frames": "node scripts/render.mjs frames",
+    "render": "node scripts/render.mjs mv",
+    "short": "node scripts/render.mjs short",
+    "thumbnail": "node scripts/render.mjs thumbnail",
+    "verify": "/workspace/.venv-digital-girl/bin/python scripts/verify.py"
+  },
+  "dependencies": {
+    "@fontsource/barlow-condensed": "5.3.0",
+    "@fontsource/ibm-plex-mono": "5.3.0",
+    "@fontsource/space-grotesk": "5.3.0",
+    "@remotion/bundler": "4.0.533",
+    "@remotion/cli": "4.0.533",
+    "@remotion/renderer": "4.0.533",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.533"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "@types/node": "26.6.4",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "fontkit": "2.0.4",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2"
+  }
+}

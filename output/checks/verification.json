@@ -1,0 +1,69 @@
+{
+  "source_integrity": {
+    "mp3": {
+      "sha256": "c4471c435d51508df3ac87ce2b88dbcd974731754696f88c7e9dfc61f1cfb94c",
+      "retained_copy_matches": true,
+      "upload_compared": true
+    },
+    "lrc": {
+      "sha256": "dfce16b4c885c778e43a786e7337a09b710c29ceb4459ad3430a69b549d6a3f7",
+      "retained_copy_matches": true,
+      "upload_compared": true
+    },
+    "json": {
+      "sha256": "ebfaa3f4eebeedcefb2d1489117b31cdb91ef0a27431bfdbb658d4ef0bb4f772",
+      "retained_copy_matches": true,
+      "upload_compared": true
+    }
+  },
+  "outputs": {
+    "digital-girl-mv.mp4": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 5654,
+      "duration_seconds": 188.466667,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "audio_channels": 2,
+      "audio_sample_rate": "48000",
+      "source_audio_start_seconds": 0,
+      "audio_alignment_lag_ms": 0.0,
+      "full_track_audio_correlation": 0.999872347556437,
+      "complete_decode": "passed",
+      "fast_start": true,
+      "bytes": 59519792,
+      "sha256": "acc24511d6bd886f65a997747ecfb2b497b846de6cfcf7dd925545af817505af"
+    },
+    "digital-girl-short.mp4": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "frames": 557,
+      "duration_seconds": 18.566667,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "audio_channels": 2,
+      "audio_sample_rate": "48000",
+      "source_audio_start_seconds": 156.13333333333333,
+      "audio_alignment_lag_ms": -6.6875,
+      "full_track_audio_correlation": 0.9992789307971074,
+      "complete_decode": "passed",
+      "fast_start": true,
+      "bytes": 6159378,
+      "sha256": "cc72eac9fb836b2410f542bfdd15653f6e13c25c6328af4886deac8e684e4c36"
+    },
+    "thumbnail.png": {
+      "width": 1920,
+      "height": 1080,
+      "valid_png": true
+    }
+  },
+  "limitations": [
+    "Audio was validated numerically; the chat interface could not audition returned audio.",
+    "Word timings remain the supplied MIDI/LRC reconstruction, not a new forced alignment.",
+    "Recent visual-reference sites returned proxy 403; see docs/research.md."
+  ]
+}
